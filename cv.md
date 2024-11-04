@@ -7,7 +7,7 @@
 * **Location:** Berlin, Germany
 * **E-Mail:** silanov.alexander@gmail.com
 * **Phone:** +4915784349026
-* ***Github:** https://github.com/alexSilanov
+* **Github:** https://github.com/alexSilanov
 
 ## About me
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Education
 
-* ***University:** Freie Universität Berlin: Media and Political science
+* **University:** Freie Universität Berlin: Media and Political science
 
 ## Experience
 
