@@ -34,10 +34,7 @@ Sience 2022: QA Engineer by Telecomputer GmbH
 # Code Example
 
 function calculate(a, b, operator) {
-
-
     switch(op) {
-
         case "+":
           return a + b
           break;
