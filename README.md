@@ -1,2 +1,1 @@
-# rsschool-cv
-Task from rss-school
+https://alexSilanov.github.io/rsschool-cv/
